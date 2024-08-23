@@ -14,13 +14,19 @@ Collaboration between the University of Technology Malaysia, Taylor's University
 - MOH FIQRI HAIKAL (ITB)
 
 ## Objectives of the Project
-- Make the pair bond through the process of the games
-- The pair assigned to find the checkpoints and take a picture from the QR codes given
-- The pair get to know more about what is around the Braga street
+- Make the pair of participants get to know each other more through the process of the games
+- The pair of participants get to know more about what is around the Braga street
 - Encourage walking and physical activity by exploring the checkpoints
+
+## Flow of the Project
+  <p align="center"><img src="images/instructionandquestions.jpg" alt="Firebase Main Page" width="40%" /></p>
 
 ## Scan to Access The Instructions and Questions
   <p align="left"><img src="images/instructionandquestions.jpg" alt="Firebase Main Page" width="40%" /></p>
 
 ## Project Proposal
 [View Project Proposal](https://github.com/oishylea/BondingBench/raw/main/file/ProjectProposal.pdf)
+
+## Initial Idea
+  <p align="center"><img src="images/instructionandquestions.jpg" alt="Firebase Main Page" width="40%" /></p>
+
