@@ -19,14 +19,18 @@ Collaboration between the University of Technology Malaysia, Taylor's University
 - Encourage walking and physical activity by exploring the checkpoints
 
 ## Flow of the Project
-  <p align="center"><img src="images/instructionandquestions.jpg" alt="Firebase Main Page" width="40%" /></p>
+  <p align="center"><img src="images/projectflow.jpg" alt="Firebase Main Page" width="100%" /></p>
 
 ## Scan to Access The Instructions and Questions
   <p align="left"><img src="images/instructionandquestions.jpg" alt="Firebase Main Page" width="40%" /></p>
+
+## Pictures During Event
+  <p align="center"><img src="images/pic1.jpg" alt="Firebase Main Page" width="30%" />
+<img src="images/pic2.jpg" alt="Firebase Main Page" width="30%" /></p>
 
 ## Project Proposal
 [View Project Proposal](https://github.com/oishylea/BondingBench/raw/main/file/ProjectProposal.pdf)
 
 ## Initial Idea
-  <p align="center"><img src="images/instructionandquestions.jpg" alt="Firebase Main Page" width="40%" /></p>
+  <p align="center"><img src="images/initialidea.jpg" alt="Firebase Main Page" width="100%" /></p>
 
