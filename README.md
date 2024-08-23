@@ -20,7 +20,7 @@ Collaboration between the University of Technology Malaysia, Taylor's University
 - Encourage walking and physical activity by exploring the checkpoints
 
 ## Scan to Access The Instructions and Questions
-  <p align="left"><img src="images/instructionandquestions.jpg" alt="Firebase Main Page" width="20%" /></p>
+  <p align="left"><img src="images/instructionandquestions.jpg" alt="Firebase Main Page" width="40%" /></p>
 
 ## Project Proposal
 [View Project Proposal](https://github.com/oishylea/BondingBench/raw/main/file/ProjectProposal.pdf)
