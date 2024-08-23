@@ -32,5 +32,5 @@ Collaboration between the University of Technology Malaysia, Taylor's University
 [View Project Proposal](https://github.com/oishylea/BondingBench/raw/main/file/ProjectProposal.pdf)
 
 ## Initial Idea
-  <p align="center"><img src="images/initialidea.jpg" alt="Firebase Main Page" width="100%" /></p>
+  <p align="center"><img src="images/initialidea.jpg" alt="Firebase Main Page" width="80%" /></p>
 
