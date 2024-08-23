@@ -19,8 +19,8 @@ Collaboration between the University of Technology Malaysia, Taylor's University
 - The pair get to know more about what is around the Braga street
 - Encourage walking and physical activity by exploring the checkpoints
 
-## QR Code of Instructions and Questions
-  <p align="center"><img src="images/instructionandquestions.jpg" alt="Firebase Main Page" width="80%" /></p>
+## Scan to Access The Instructions and Questions
+  <p align="left"><img src="images/instructionandquestions.jpg" alt="Firebase Main Page" width="20%" /></p>
 
 ## Project Proposal
 [View Project Proposal](https://github.com/oishylea/BondingBench/raw/main/file/ProjectProposal.pdf)
