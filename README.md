@@ -22,7 +22,7 @@ Collaboration between the University of Technology Malaysia, Taylor's University
   <p align="center"><img src="images/projectflow.jpg" alt="Firebase Main Page" width="100%" /></p>
 
 ## Scan to Access The Instructions and Questions
-  <p align="left"><img src="images/instructionandquestions.jpg" alt="Firebase Main Page" width="40%" /></p>
+  <p align="left"><img src="images/QRcode.jpg" alt="Firebase Main Page" width="40%" /></p>
 
 ## Pictures During Event
   <p align="center"><img src="images/pic1.jpg" alt="Firebase Main Page" width="30%" />
